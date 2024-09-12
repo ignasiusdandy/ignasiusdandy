@@ -27,4 +27,4 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 
 ### Reach me on
 - <a href="https://linkedin.com/in/dimasmds/](https://www.linkedin.com/in/ignasius-dandy-b2b3a1307/">LinkedIn</a>
-- <a href="https://instagram/ignasius__dandy">Instagram</a>
+- <a href="https://instagram/ignasius__dandy/">Instagram</a>
