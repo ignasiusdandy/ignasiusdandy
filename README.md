@@ -26,4 +26,4 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/dimasmds/](https://www.linkedin.com/in/ignasius-dandy-b2b3a1307/">LinkedIn</a>
+- <a href="https://linkedin.com/in/dimasmds/]([https://www.linkedin.com/in/ignasius-dandy-b2b3a1307/](https://www.linkedin.com/in/ignasius-dandy-b2b3a1307/])">LinkedIn</a>
