@@ -6,7 +6,7 @@ Saya seorang **WEB DEVELOVER** <br>
 
 Saya sedang belajar dibangkit academy dengan path bangkit academy batch 2024<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ignasius-dandy-b2b3a1307/)ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/ignasiusdandy/)ku ya.
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
@@ -26,4 +26,4 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 </p>
 
 ### Reach me on
-- <a href="https://www.linkedin.com/in/ignasius-dandy-b2b3a1307/">LinkedIn</a>
+- <a href="https://www.linkedin.com/in/ignasiusdandy/">LinkedIn</a>
